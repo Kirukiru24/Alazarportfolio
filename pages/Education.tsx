@@ -58,7 +58,7 @@ const academicData: EducationEntry[] = [
   },
   // Assuming 'delaware' is the institution for the PhD based on the image name
   {
-    institution: "PhD Program (Currently Pursuing)",
+    institution: "University of Delaware (Currently Pursuing)",
     degree: "PhD (In Progress)",
     field: "Electrical and Computer Engineering, specializing in Electromagnetics and Photonics",
     duration: "Ongoing",
